@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF00&height=200&section=header&text=SYSTEM_ONLINE&fontSize=50&fontColor=000000&animation=fadeIn" width="100%" />
+</div>
 
-<!--
-**Sappy324/Sappy324** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 📡 Transmission Received from [Sappy324]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> <span style="color: #00FF00">root@github:~$</span> ./show_skills.sh
+
+```bash
+[INFO] Loading Java Modules... OK
+[INFO] Connecting to MySQL Database... OK
+[INFO] Initializing Spring Boot Context... SUCCESS
+[WARN] Caffeine level is low. Please refill. ☕
+```
+
+<div align="center">
+
